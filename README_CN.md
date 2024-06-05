@@ -106,9 +106,6 @@ TG通知内容：
 * qist 的 xray-ui 项目：https://github.com/qist/xray-ui
 * MHSanaei 的 3x-ui 项目：https://github.com/MHSanaei/3x-ui
 
-## 赞助
-
-爱发电：https://afdian.net/a/Misaka-blog
 
 
 ## 免责声明
